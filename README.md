@@ -1,2 +1,2 @@
-# eco20-21
-Repositorio Ficheros Python Econometría 2020-2021
+# ECO20-20
+Econometría 2020-2021 Doble Grado Ade+Ing
