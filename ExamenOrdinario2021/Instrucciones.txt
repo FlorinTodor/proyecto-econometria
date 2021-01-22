@@ -1,0 +1,8 @@
+- La duración del examen de 1.5 horas.
+- Cada pregunta se responderá en el recuadro bajo la pregunta, bien en modo sólo texto o imagen (Preguntas 1 a 5) o bien en modo códigos de Python + texto respuesta en
+base a los resultados obtenidos (Preguntas 6 a 10).
+- Los datos necesarios está disponibles bien en el, propio ejercicio, o en la librería wooldridge o en los ficheros de excel datos8.xls y datos9.xls) disponibles en github
+(las órdenes orientativas para leer los ficheros se encuentran descritas bajo cada uno de esos ejercicios).
+- No se evaluarán respuestas en las que únicamente haya códigos. Los resultados deberán servir para responder a las preguntas.
+- Las puntuaciones de cada ejercicio se encuentran en el propio enunciado.
+- El fichero final del examen se enviará a vía PRADO en la Tarea habilitada para el examen.
