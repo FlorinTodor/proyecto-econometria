@@ -1,3 +1,8 @@
+- Existen 2 tipos de examen ordinario:
+  TIPO A: Alumnos con primer apellido comenzando por letras de la A a la L.
+  TIPO B: Alumnos con primer apellido comenzando por letras de la M a la Z.
+El examen se evaluará en base a las preguntas realizadas en su tipo de examen.
+  
 - La duración del examen de 1.5 horas.
 - Cada pregunta se responderá en el recuadro bajo la pregunta, bien en modo sólo texto o imagen (Preguntas 1 a 5) o bien en modo códigos de Python + texto respuesta en
 base a los resultados obtenidos (Preguntas 6 a 10).
