@@ -1,3 +1,3 @@
-# ECONOMETRÍA
-Econometría Doble Grado Ade+Ing, UGR
+# ECONOMETRÍA 2021-2022
+Econometría Doble Grado ADE+Ings, UGR
 
