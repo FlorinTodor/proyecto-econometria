@@ -1,11 +1,13 @@
 name: eco-environment
-
+channels:
+  - conda-forge
 dependencies:
+  - python
   - numpy
-  - statsmodels.api
-  - matplotlib
-  - statsmodels.formula.api
-  - pandas
-  - wooldridge
+  - pip
   - pip:
-    - git+https://github.com/blaze/dask.git#egg=dask[complete]
+    - statsmodels.api
+    - matplotlib
+    - statsmodels.formula.api
+    - pandas
+    - wooldridge
