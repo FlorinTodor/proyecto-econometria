@@ -6,8 +6,7 @@ dependencies:
   - numpy
   - pip
   - pip:
-    - statsmodels.api
+    - statsmodels
     - matplotlib
-    - statsmodels.formula.api
     - pandas
     - wooldridge
