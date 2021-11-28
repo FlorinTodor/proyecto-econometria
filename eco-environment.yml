@@ -1,0 +1,11 @@
+name: eco-environment
+
+dependencies:
+  - numpy
+  - statsmodels.api
+  - matplotlib
+  - statsmodels.formula.api
+  - pandas
+  - wooldridge
+  - pip:
+    - git+https://github.com/blaze/dask.git#egg=dask[complete]
