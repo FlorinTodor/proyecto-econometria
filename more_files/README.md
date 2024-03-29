@@ -1,0 +1,3 @@
+# ECONOMETRÍA
+Scripts asignatura Econometría
+
